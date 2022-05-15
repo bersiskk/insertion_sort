@@ -17,11 +17,12 @@
 O(n^2)
 
 #### 3. soru
-Average case:
 
-Worst case:
+Worst case: t = 1+2+3+..+n = (n^2 + n)/2
 
-Best case:
+Best case: n
+
+Average case: (n + (n^2 + n)/2) /2 = (n^2 + 3n)/4
 
 #### 4. soru
 Average case
