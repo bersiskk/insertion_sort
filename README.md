@@ -17,8 +17,10 @@
 O(n^2)
 
 #### 3. soru
-Average case: 
+Average case:
+
 Worst case:
+
 Best case:
 
 #### 4. soru
