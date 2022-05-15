@@ -5,4 +5,5 @@
 Root 7'dir. Sonraki eleman 5 roottan küçük olduğu için solunda bulunur.
 
 ------7------
+
 ---5---------
